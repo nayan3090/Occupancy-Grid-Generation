@@ -24,13 +24,13 @@ Following visualization is created to visualize the robot's motion in the true m
 The occupancy grid belief map matches the true map very closely at the end of the simulation.
 
 #### 1. True map of the environment
-![true_map](animations/true_map.mp4)
+https://user-images.githubusercontent.com/55642368/227746257-29d1307f-9152-4d54-b1fb-0683bb195d71.mp4
 
 #### 2. Inverse scanner model result at each time interval throughout the simulation
-![inverse_scanner](animations/inverse_scanner.mp4)
+https://user-images.githubusercontent.com/55642368/227746276-b55b2900-5602-4812-9553-6207bb90f5c2.mp4
 
 #### 3. Occupancy grid belief map
-![belief_map](animations/belief_map.mp4)
+https://user-images.githubusercontent.com/55642368/227746286-f99e7f3e-3239-42ab-a8cd-7cfcec7d4581.mp4
 
 
 
