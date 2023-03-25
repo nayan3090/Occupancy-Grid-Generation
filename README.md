@@ -8,7 +8,7 @@ In this assignment, an occupancy grid is generated using lidar scanner measureme
 First, the vehicle gathers measurement data of the environment which is transformed from cartesian coordinate system to polar coordinate system.
 ![cartesian_to_polar](img/cartesian_to_polar.png)
 Given the range measurements and the robot location, the scanned values in polar coordinate system are then passed to the inverse scanner to generate occupancy grid probabilities.
-![inverse_scanner_model]
+![inverse_scanner_model](img/inverse_measurement_model.png)
 
 ## Calculate and update logodds of the occupancy grid
 At each time interval, the measured occupancy probabilities from the inverse model are used to update the belief map. Bayes' rule is applied to update the occupancy grid as follows:
