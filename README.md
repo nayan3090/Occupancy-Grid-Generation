@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/55642368/227746276-b55b2900-5602-4812-
 
 #### 3. Occupancy grid belief map
 https://user-images.githubusercontent.com/55642368/227746286-f99e7f3e-3239-42ab-a8cd-7cfcec7d4581.mp4
+![Occupancy grid belief map](img/occupancy_grid_belief.gif)
 
 
 
